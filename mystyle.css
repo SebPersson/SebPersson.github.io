@@ -2,25 +2,32 @@ ul {
 	list-style-type: none;
 	margin: 0;
 	padding: 0;
+	overflow: hidden;
+	background-color: #444;
+}
+li {
+	float: left;
+	display: inline;
 }
 li a {
-	display:block;
+	display: block;
 	width: 60px;
 	background-color: grey;
 	color: white;
 	text-align: center;
+	text-decoration: none;
+	padding: 14px 16px;
+
 }
 li a:hover {
-	background-color: #333;
+	background-color: #111;
 }
-
 .active {
 	background-color: black;
 	color: white;
 }
-
 .main {
-	background color: grey;
+	background-color: grey;
 	font color: blue;
 	font-family: Verdana;
 }
