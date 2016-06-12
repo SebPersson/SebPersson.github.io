@@ -20,9 +20,8 @@
 	text-align: center;
 	text-decoration: none;
 	padding: 14px 16px;
-
 }
-li a:hover {
+navbar li a:hover {
 	background-color: #111;
 }
 .main {
