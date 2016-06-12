@@ -21,7 +21,10 @@
 	text-decoration: none;
 	padding: 14px 16px;
 }
-navbar li a:hover {
+.navbar li a:hover {
+	background-color: #222;
+}
+.active {
 	background-color: #111;
 }
 .main {
