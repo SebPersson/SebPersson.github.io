@@ -8,11 +8,11 @@
 	top: 0;
 	width: 100%;
 }
-li {
+.navbar li {
 	float: left;
 	display: inline;
 }
-li a {
+.navbar li a {
 	display: block;
 	width: 80px;
 	background-color: #333;
