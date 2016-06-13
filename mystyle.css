@@ -24,12 +24,16 @@
 .navbar li a:hover {
 	background-color: #222;
 }
-.active {
-	background-color: #111;
-}
 .main {
 	padding-top: 40px;
 	background-color: white;
 	color: black;
 	font-family: Verdana;
+}
+.hostedBy {
+	background-color: grey;
+	color: black;
+	margin-bottom: 0px;
+	text-align: center;
+	width: 100%;
 }
