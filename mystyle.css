@@ -30,13 +30,13 @@
 	color: black;
 	font-family: Verdana;
 }
-a img {
+.photolink {
 	width:100px;
 	height:100px;
 }
 
 table, td {
-	border: 1px #70b8ff dashed;
+	border: 2px #70b8ff;
 }
 .hostedBy {
 	background-color: grey;
