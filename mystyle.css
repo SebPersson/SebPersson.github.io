@@ -1,3 +1,4 @@
+/* General CSS */
 .navbar {
 	list-style-type: none;
 	margin: 0;
@@ -30,18 +31,26 @@
 	color: black;
 	font-family: Verdana;
 }
-.photolink {
-	width:100px;
-	height:100px;
-}
-
-table, td {
-	border: 2px #70b8ff solid;
-}
 .hostedBy {
 	background-color: grey;
 	color: black;
 	margin-bottom: 0px;
 	text-align: center;
 	width: 100%;
+}
+
+/* About me CSS */
+.aboutMe{
+	padding-top: 40px;
+	background-color: lightblue;
+	color: black;
+	font-family: Verdana;
+}
+.photolink {
+	width:300px;
+	height:300px;
+}
+
+table, td {
+	border: 2px #70b8ff solid;
 }
