@@ -30,6 +30,14 @@
 	color: black;
 	font-family: Verdana;
 }
+a img {
+	width:100px;
+	height:100px;
+}
+
+table, td {
+	border: 1px #70b8ff dashed;
+}
 .hostedBy {
 	background-color: grey;
 	color: black;
