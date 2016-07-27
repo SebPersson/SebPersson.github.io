@@ -54,3 +54,6 @@
 table, td {
 	border: 2px #70b8ff solid;
 }
+th{
+	text-align: center;
+}
