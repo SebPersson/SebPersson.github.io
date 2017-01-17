@@ -58,8 +58,15 @@ th{
 	text-align: center;
 }
 
+.education {
+	padding-top: 10px;
+	background-color: #70b8ff;
+	color: black;
+	font-family: Verdana;
+}
+
 .skills {
-	padding-top: 40px;
+	padding-top: 10px;
 	background-color: #70b8ff;
 	color: black;
 	font-family: Verdana;
